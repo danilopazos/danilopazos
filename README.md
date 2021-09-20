@@ -1,11 +1,11 @@
 ## Hola, soy Danilo Pazos! 👋
 
-> _Creador de contenido [Sin Palta](https://sinpalta.com)_
-> _DevOps Engineer en Everis_
-> _Apasionado por las nuevas tecnologías y seguir aprendiendo_
+_Creador de contenido [Sin Palta](https://sinpalta.com)_
+_DevOps Engineer en Everis_
+_Apasionado por las nuevas tecnologías y seguir aprendiendo_
 
-> _En esta nueva etapa de mi vida quiero compartir un poco de conocimiento a la comunidad,_
-> _sígueme en [YouTube]() y aprende conmigo temas de tecnología e infraestructura en español._
+_En esta nueva etapa de mi vida quiero compartir un poco de conocimiento a la comunidad,_
+_sígueme en [YouTube]() y aprende conmigo temas de tecnología e infraestructura en español._
 
 ### Sitios oficiales
 - [sinpalta.com](https://sinpalta.com)
