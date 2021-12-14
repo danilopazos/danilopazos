@@ -2,7 +2,7 @@
 
 _Creador de contenido [Sin Palta](https://sinpalta.com)_
 
-_DevOps Engineer en Everis_
+_DevOps Engineer en NTT DATA_
 
 _Apasionado por las nuevas tecnologías y seguir aprendiendo_
 
