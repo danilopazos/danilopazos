@@ -1,7 +1,5 @@
 ## Hola, soy Danilo Pazos! 👋
 
-_Cloud Engineer en Globant y socio en SUMMER LOVE_
-
 _Apasionado por las nuevas tecnologías y seguir aprendiendo_
 
 
